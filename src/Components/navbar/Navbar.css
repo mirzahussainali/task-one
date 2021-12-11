@@ -1,0 +1,25 @@
+.nav-container {
+  max-width: 1400px;
+  margin: auto;
+}
+
+.nav {
+  background: #fff;
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px 30px;
+  margin-right: 20px;
+  align-items: center;
+}
+.btn {
+  margin-left: 30px;
+  padding: 15px 30px;
+  background: linear-gradient(to right, #2ecfe4, #175cbb);
+  border-radius: 15px;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  display: transparent;
+}
